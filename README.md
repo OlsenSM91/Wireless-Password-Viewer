@@ -4,7 +4,6 @@ Ever Save a WiFi Password to your computer but then wanted to get it back? Well 
 ## What's Here
 - `winnetprof.py` - This will send the wifi details via Discord Webhook URL
 - `netsh2.py` - This will output the wifi details to the console
-- `winnetprof.exe` - is a Malware sample. If you run it, it will send any saved passwords to a Discord server
 - `a10ef479b44f6ace9287abb2d1deec1de1b0972a5ec49ecef9fe591202ec3556` - This is the .exe hash for VirusTotal. It is detected by 8/72 as of the time of this initial commit. The only accurate one being Kasperky that was pretty spot on with what this does.
 
 ## Educational Disclaimer
